@@ -10,8 +10,8 @@
 #
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # i
-# - type: github
-#  icon: "fab fa-github"
+- type: github
+  icon: "fab fa-github"
 
 # - type: twitter
 #  icon: "fab fa-twitter"
