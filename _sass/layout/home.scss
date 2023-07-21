@@ -62,6 +62,17 @@
         }
       }
 
+      .card-text.post-description {
+        @extend %muted;
+
+        p {
+          
+
+          line-height: 1.5;
+          margin: 0;
+        }
+      }
+
       .post-meta {
         @extend %muted;
 
